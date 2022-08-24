@@ -73,7 +73,7 @@
       </div>
       <div class="row">
         <div class="col-12">
-          <img src="./../../../html/page_sample.jpg" class="img-fluid" />
+          <img src="./../assets/html/page_sample.jpg" class="img-fluid" />
         </div>
       </div>
     </div>
