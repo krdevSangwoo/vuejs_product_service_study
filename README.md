@@ -1,1 +1,5 @@
-# vuejs-web-nodejs-server-sample
+# vuejs study(product sale page)
+## frontend: vuejs
+## backend: nodejs
+## database: mariaDB
+## DevOps: docker
